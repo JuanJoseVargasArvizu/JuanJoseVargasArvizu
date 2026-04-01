@@ -19,7 +19,15 @@
 * 🤓 Always learning new things
 * 📈 Looking for opportunities to grow as a developer
 
+<h1 align="center">📊 GitHub Stats:</h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseVargasArvizu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseVargasArvizu&theme=dark&hide_border=false" /><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseVargasArvizu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -31,15 +39,9 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.instagram.com/juanitoovargass?igsh=YTJmb2Y4M3Q4aG4y">
-    <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" />
-  </a>
-  <a href="https://www.facebook.com/share/1AvjRppouZ/">
-    <img src="https://img.icons8.com/fluency/96/facebook-new.png" height="50" />
-  </a>
-  <a href="https://pin.it/3sKmj2b7x">
-    <img src="https://img.icons8.com/fluency/96/pinterest.png" height="50" />
-  </a>
+  <a href="https://www.instagram.com/juanitoovargass?igsh=YTJmb2Y4M3Q4aG4y"><img src="https://img.icons8.com/fluency/96/instagram-new.png" height="50" /></a>
+  <a href="https://www.facebook.com/share/1AvjRppouZ/"><img src="https://img.icons8.com/fluency/96/facebook-new.png" height="50" /></a>
+  <a href="https://pin.it/3sKmj2b7x"><img src="https://img.icons8.com/fluency/96/pinterest.png" height="50" /></a>
 </p>
 
 <!--horizontal divider(gradiant)-->
