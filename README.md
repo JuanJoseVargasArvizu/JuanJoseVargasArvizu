@@ -59,3 +59,9 @@
 
 ----------------------------------------------------------------------
 
+<div align="center">
+
+![snake gif](https://github.com/JuanJoseVargasArvizu/JuanJoseVargasArvizu/blob/output/github-snake-dark.svg)
+
+</div>
+
