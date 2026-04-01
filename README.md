@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" alt="Header" width="100%">
+  <img src="Profile.png" alt="Header" width="100%">
 </p>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
