@@ -31,6 +31,8 @@
 ### **🤓 Always learning new things**
 ### **📈 Looking for opportunities to grow as a developer**
 
+<br>
+
 <div align="center">
   <h1>Skills</h1>
 </div>
