@@ -19,15 +19,25 @@
 * 🤓 Always learning new things
 * 📈 Looking for opportunities to grow as a developer
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<div align="center">
+  <h1>Operating Systems</h1>
+  <p>
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" height="50" style="vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" height="45" style="vertical-align: middle; margin-bottom: 5px;" />
+  </p>
+</div>
+
+
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseVargasArvizu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseVargasArvizu&theme=dark&hide_border=false" /><br/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseVargasArvizu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseVargasArvizu&theme=dark&hide_border=false" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseVargasArvizu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
