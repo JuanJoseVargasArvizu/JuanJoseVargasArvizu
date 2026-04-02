@@ -17,11 +17,13 @@
   <h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle;"> About me</h2>
 </div>
 
-<picture> 
+<br>
+
+<picture>  
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px">
 </picture>
 
-<br><br>
+
 
 ### **🎓 Software Engineering student at the Faculty of Mathematics, UADY**
 ### **💻 Passionate about technology and software development**
@@ -98,3 +100,5 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
+
+
