@@ -30,7 +30,6 @@
 ### **☕ Currently learning Java, algorithms, and data structures**
 ### **🛠️ Building small projects to improve my skills**
 ### **🚀 Future Software Developer**
-### **🤓 Always learning new things**
 ### **📈 Looking for opportunities to grow as a developer**
 
 <br>
